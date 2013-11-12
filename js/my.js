@@ -18,7 +18,7 @@ $(document).ready(function () {
                             }
                             items += "<li data-filtertext= ' " +data[i].category+ " " + data[i].name + " 'data-corners='false' data-shadow='false' data-iconshadow='true' data-wrapperels='div' data-icon='arrow-r' data-iconpos='right' data-theme='c' class='ui-btn ui-btn-up-c ui-btn-icon-right ui-li-has-arrow ui-li ui-li-has-thumb'>";
                             items += "<div class='ui-btn-inner ui-li'><div class='ui-btn-text'>"
-                            items += "<a href='#" + data[i].id + "' class='ui-link-inherit'><img src='" + data[i].image + "' alt='" + data[i].name + "' class='ui-li-thumb'>" +data[i].name + "</a>";
+                            items += "<a href='#" + data[i].id + "' class='ui-link-inherit' data-transition='slide'><img src='" + data[i].image + "' alt='" + data[i].name + "' class='ui-li-thumb'>" +data[i].name + "</a>";
                             items += "</div><span class='ui-icon ui-icon-arrow-r ui-icon-shadow'>&nbsp;</span></div></li>"
                         }); 
                           $('#ajaxContent').empty();

@@ -23,7 +23,9 @@
         </header>  
       
         <div data-role="content">  
-            <!-- the conent below would be shown if the site couldn't connect to the database-->
+            <!-- STABLE CONTENT the conent below would be shown if the site couldn't connect to the database 
+            or if javascript was turned off, though in that case they still won't be properly styled
+            -->
             <ul data-filter="true" data-role="listview" data-inset="true" id='ajaxContent'>   
                 <li data-role="list-divider">
                 	Planets
@@ -53,7 +55,6 @@
                 <li data-filtertext=" planets Neptune ">  
                     <a href="#Neptune"><img src="img/planet8.jpg" alt="Neptune"/> Neptune </a>  
                 </li>  
-
                 
             </ul>  
             <a href="#mypanel" data-role="button" data-icon="gear" data-display="overlay" data-position="right" data-iconpos="left" data-reveal="reveal" data-dismissible="true" data-corners="true" data-shadow="true" data-iconshadow="true" data-wrapperels="span" data-theme="c" class="ui-btn ui-shadow ui-btn-corner-all ui-btn-icon-left ui-btn-up-c"><span class="ui-btn-inner"><span class="ui-btn-text">Go to panel</span><span class="ui-icon ui-icon-gear ui-icon-shadow">&nbsp;</span></span></a>
@@ -63,12 +64,11 @@
             <h4> Seosamh &Oacute; Cinn&eacute;ide </h4>  
 
         </footer>  
-  <div data-role="panel" id="mypanel" data-dismissible="true" data-display="overlay" class="ui-responsive-panel"> 
-            <div class="paneldiv">
-                This is some text that shouldn't be transparent.dsafjkdsahfksdhfkjhdskfjhdskjfhkjdshiuebkdsvkjbsdhsuhfkjsdhfkjshdfkdsjfhksjdfsdhfjklhs dflkdshaklfhsdklfhksdhfkj sdhfklhsdfkjnvkjsdankjsdhf
-                dsfjklsdjfl;sa
-            </div>
-
+<div data-role="panel" id="mypanel" data-dismissible="true" data-display="overlay" class="ui-responsive-panel"> 
+  <div class="paneldiv">
+    This is some text that shouldn't be transparent.dsafjkdsahfksdhfkjhdskfjhdskjfhkjdshiuebkdsvkjbsdhsuhfkjsdhfkjshdfkdsjfhksjdfsdhfjklhs dflkdshaklfhsdklfhksdhfkj sdhfklhsdfkjnvkjsdankjsdhf
+    dsfjklsdjfl;sa
+  </div>
 </div><!--End of Panel-->
  
 </div>  <!--End of Main Page-->
