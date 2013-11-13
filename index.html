@@ -7,8 +7,9 @@
   
    <title> JQM </title>   
     <link rel="stylesheet" href="css/themes/Chilly.css" />
-    <link rel="stylesheet" href="css/mobile.css" />
+    
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.2/jquery.mobile.structure-1.3.2.min.css" />  
+    <link rel="stylesheet" href="css/mobile.css" />
   
     <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js"></script>
@@ -19,7 +20,7 @@
  <div data-role="page">  
 
         <header data-role="header">  
-            <h1> Space <br/>OBJECTS</h1>  
+           <a href="#mypanel" data-role="button" data-icon="gear" data-corners="false">Go to panel</a> <h1> Space <br/>OBJECTS</h1>  
         </header>  
       
         <div data-role="content">  
@@ -57,14 +58,14 @@
                 </li>  
                 
             </ul>  
-            <a href="#mypanel" data-role="button" data-icon="gear" data-display="overlay" data-position="right" data-iconpos="left" data-reveal="reveal" data-dismissible="true" data-corners="true" data-shadow="true" data-iconshadow="true" data-wrapperels="span" data-theme="c" class="ui-btn ui-shadow ui-btn-corner-all ui-btn-icon-left ui-btn-up-c"><span class="ui-btn-inner"><span class="ui-btn-text">Go to panel</span><span class="ui-icon ui-icon-gear ui-icon-shadow">&nbsp;</span></span></a>
+            
         </div>  
       
         <footer data-role="footer">  
-            <h4> Seosamh &Oacute; Cinn&eacute;ide </h4>  
+            <h4> <!--[if lte IE 8]><span style="filter: FlipH; -ms-filter: "FlipH"; display: inline-block;"><![endif]--><span style="-moz-transform: scaleX(-1); -o-transform: scaleX(-1); -webkit-transform: scaleX(-1); transform: scaleX(-1); display: inline-block;">©</span><!--[if lte IE 8]></span><![endif]--> Seosamh &Oacute; Cinn&eacute;ide </h4>  
 
         </footer>  
-<div data-role="panel" id="mypanel" data-dismissible="true" data-display="overlay" class="ui-responsive-panel"> 
+<div data-role="panel" id="mypanel" data-dismissible="true" data-display="overlay" data-position-fixed="true" class="ui-responsive-panel"> 
   <div class="paneldiv">
     This is some text that shouldn't be transparent.dsafjkdsahfksdhfkjhdskfjhdskjfhkjdshiuebkdsvkjbsdhsuhfkjsdhfkjshdfkdsjfhksjdfsdhfjklhs dflkdshaklfhsdklfhksdhfkj sdhfklhsdfkjnvkjsdankjsdhf
     dsfjklsdjfl;sa

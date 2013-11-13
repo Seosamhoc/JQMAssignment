@@ -13,10 +13,7 @@
 /* Swatches */
 /* A
 -----------------------------------------------------------------------------------------------------------*/
-@font-face {
-	font-family: ChunkfiveRegular;
-	src: url('Chunkfive.otf');
-}
+
 
 
 
@@ -801,41 +798,3 @@ a.ui-link-inherit {
 	outline-style: auto;
 }
 		
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-dt,
-.load-head,
-.chunk,
-.qq legend,
-.btn,
-.take-it,
-#branding,
-.menu-button,
-#car_reg_find,
-p.more-category,
-#promote-txt,
-#irish,
-#click-to-call .call-us,
-.menu a, .menu span,
-.product-points li,
- #nav ul:before,
-.table .hrow,
-.table .trow,
-#nav-mobile-btn,
-#menu-sub-ul a,
-#quote-tel,
-#tabs span,
-.quote-header,
-#share-text {
-    font-family: 'ChunkFiveRegular', serif;
-    letter-spacing: 0;
-    -webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
-    font-weight: normal;
-    margin: 0;
-    padding: 0;
-}	
