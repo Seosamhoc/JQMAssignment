@@ -32,7 +32,7 @@ $(document).ready(function () {
                   var pages='';
 
                         $.each(data, function(j,jsonItem){
-                          pages += "<div data-role='page' id='" + data[j].id + "''>";
+                          pages += "<div data-role='page' id='" + data[j].id + "' data-add-back-btn='true'>";
                           pages += "<header data-role='header'><h1>Space <br/>OBJECTS</h1></header>"
                           pages += "<img src='" + data[j].image + "' alt='" + data[j].name + "'>"
                           pages += "<p>This is page " + data[j].name + "</p>"
