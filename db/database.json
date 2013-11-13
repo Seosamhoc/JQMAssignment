@@ -5,7 +5,7 @@
         "category": "planets",
         "name": "Mercury",
         "image": "img/planet1.jpg",
-        "description": "",
+        "description": "Mercury is the smallest and closest to the Sun of the eight planets in the Solar System, with an orbital period of about 88 Earth days. Seen from the Earth, it appears to move around its orbit in about 116 days, which is much faster than any other planet.",
         "wikilink": "http://en.wikipedia.org/wiki/Mercury_(planet)"
     },
     {
@@ -13,7 +13,7 @@
         "category": "planets",
         "name": "Venus",
         "image": "img/planet2.jpg",
-        "description": "",
+        "description": "Venus is the second planet from the Sun, orbiting it every 224.7 Earth days. It has no natural satellite. It is named after the Roman goddess of love and beauty. After the Moon, it is the brightest natural object in the night sky, reaching an apparent magnitude of −4.6, bright enough to cast shadows.",
         "wikilink": "http://en.wikipedia.org/wiki/Venus_(planet)"
     },
     {
@@ -21,7 +21,7 @@
         "category": "planets",
         "name": "Earth",
         "image": "img/planet3.jpg",
-        "description": "",
+        "description": "Earth is the third planet from the Sun, it is the densest and fifth-largest of the eight planets in the Solar System. It is also the largest of the Solar System's four terrestrial planets. It is sometimes referred to as the world or the Blue Planet.",
         "wikilink": "http://en.wikipedia.org/wiki/Earth_(planet)"
     },
     {
@@ -29,7 +29,7 @@
         "category": "planets",
         "name": "Mars",
         "image": "img/planet4.jpg",
-        "description": "",
+        "description": "Mars is the fourth planet from the Sun and the second smallest planet in the Solar System. Named after the Roman god of war, it is often described as the \"Red Planet\" because the iron oxide prevalent on its surface gives it a reddish appearance.",
         "wikilink": "http://en.wikipedia.org/wiki/Mars_(planet)"
     },
     {
@@ -37,7 +37,7 @@
         "category": "planets",
         "name": "Jupiter",
         "image": "img/planet5.jpg",
-        "description": "",
+        "description": "Jupiter is the fifth planet from the Sun and the largest planet in the Solar System. It is a gas giant with mass one-thousandth of that of the Sun but is two and a half times the mass of all the other planets in the Solar System combined.",
         "wikilink": "http://en.wikipedia.org/wiki/Jupiter_(planet)"
     },
     {
@@ -45,7 +45,7 @@
         "category": "planets",
         "name": "Saturn",
         "image": "img/planet6.jpg",
-        "description": "",
+        "description": "Saturn is the sixth planet from the Sun and the second largest planet in the Solar System, after Jupiter. Named after the Roman god of agriculture, Saturn, its astronomical symbol (♄) represents the god's sickle. Saturn is a gas giant with an average radius about nine times that of Earth.",
         "wikilink": "http://en.wikipedia.org/wiki/Saturn_(planet)"
     },
     {
@@ -53,7 +53,7 @@
         "category": "planets",
         "name": "Uranus",
         "image": "img/planet7.jpg",
-        "description": "",
+        "description": "Uranus is the seventh planet from the Sun. It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. Uranus is similar in composition to Neptune, and both are of different chemical composition than the larger gas giants Jupiter and Saturn.",
         "wikilink": "http://en.wikipedia.org/wiki/Uranus_(planet)"
     },
     {
@@ -61,7 +61,7 @@
         "category": "planets",
         "name": "Neptune",
         "image": "img/planet8.jpg",
-        "description": "",
+        "description": "Neptune is the eighth and farthest planet from the Sun in the Solar System. It is the fourth-largest planet by diameter and the third-largest by mass. Among the gaseous planets in the solar system, Neptune is the most dense. Neptune is 17 times the mass of Earth and is slightly more massive than its near-twin Uranus, which is 15 times the mass of Earth but not as dense.",
         "wikilink": "http://en.wikipedia.org/wiki/Neptune_(planet)"
     },
     {
@@ -69,7 +69,7 @@
         "category": "galaxy",
         "name": "Milky Way",
         "image": "img/galaxy1.jpg",
-        "description": "",
+        "description": "The Milky Way is the galaxy that contains our Solar System. Its name \"milky\" is derived from its appearance as a dim glowing band arching across the night sky in which the naked eye cannot distinguish individual stars. From the Earth, the Milky Way appears like a band because its disk-shaped structure is viewed from within the Galaxy.",
         "wikilink": "http://en.wikipedia.org/wiki/Milky_Way_(galaxy)"
     },
     {
@@ -77,7 +77,7 @@
         "category": "galaxy",
         "name": "Sombrero Galaxy",
         "image": "img/galaxy2.jpg",
-        "description": "",
+        "description": "The Sombrero Galaxy (also known as Messier Object 104, M104 or NGC 4594) is an unbarred spiral galaxy in the constellation Virgo located 28 megalight-years (8,600 kpc) from Earth. It has a bright nucleus, an unusually large central bulge, and a prominent dust lane in its inclined disk. The dark dust lane and the bulge give this galaxy the appearance of a sombrero.",
         "wikilink": "http://en.wikipedia.org/wiki/Sombrero_Galaxy"
     },
     {
@@ -85,7 +85,7 @@
         "category": "galaxy",
         "name": "Andromeda",
         "image": "img/galaxy3.jpg",
-        "description": "",
+        "description": "The Andromeda Galaxy /ænˈdrɒmɨdə/ is a spiral galaxy approximately 2.5 million light-years (2.4×1019 km) from Earth in the Andromeda constellation. Also known as Messier 31, M31, or NGC 224, it is often referred to as the Great Andromeda Nebula in older texts. The Andromeda Galaxy is the nearest spiral galaxy to our Milky Way galaxy, but not the closest galaxy overall.",
         "wikilink": "http://en.wikipedia.org/wiki/Andromeda_(galaxy)"
     },
     {
@@ -93,7 +93,7 @@
         "category": "galaxy",
         "name": "NGC_5879",
         "image": "img/galaxy4.jpg",
-        "description": "",
+        "description": "NGC 5879 is a spiral galaxy in Draco constellation. The galaxy was discovered in 1788 by William Herschel. It is a member of the NGC 5866 Group. It has the apparent dimensions(v) of 3.74′x1.01′ and an apparent magnitude(v) of 12.4",
         "wikilink": "http://en.wikipedia.org/wiki/NGC_5879"
     },
     {
@@ -101,7 +101,7 @@
         "category": "galaxy",
         "name": "Pinwheel Galaxy",
         "image": "img/galaxy5.jpg",
-        "description": "",
+        "description": "The Pinwheel Galaxy (also known as Messier 101, M101 or NGC 5457) is a face-on spiral galaxy distanced 21 million light-years (six megaparsecs) away in the constellation Ursa Major, first discovered by Pierre Méchain on March 27, 1781, and communicated to Charles Messier who verified its position for inclusion in the Messier Catalogue as one of its final entries.",
         "wikilink": "http://en.wikipedia.org/wiki/Pinwheel_Galaxy"
     },
     {
@@ -109,7 +109,7 @@
         "category": "galaxy",
         "name": "NGC_5907",
         "image": "img/galaxy6.jpg",
-        "description": "",
+        "description": "NGC 5907 is a spiral galaxy located approximately 50 million light years from Earth. It has an anomalously low metallicity and few detectable giant stars, being apparently composed almost entirely of dwarf stars. It is a member of the NGC 5866 Group.",
         "wikilink": "http://en.wikipedia.org/wiki/NGC_5907"
     },
     {
@@ -117,7 +117,7 @@
         "category": "Moon Of Saturn",
         "name": "Daphnis",
         "image": "img/moon1.jpg",
-        "description": "",
+        "description": "Daphnis (/ˈdæfnɨs/ daf-nis; Greek: Δάφνις) is an inner satellite of Saturn. It is also known as Saturn XXXV; its provisional designation was S/2005 S 1. Daphnis is about 8 kilometres in diameter, and orbits the planet in the Keeler Gap within the A ring.",
         "wikilink": "http://en.wikipedia.org/wiki/Daphnis_(moon)"
     },
     {
@@ -125,7 +125,7 @@
         "category": "Moon Of Saturn",
         "name": "Titan",
         "image": "img/moon2.jpg",
-        "description": "",
+        "description": "Titan (or Saturn VI) is the largest moon of Saturn. It is the only natural satellite known to have a dense atmosphere, and the only object other than Earth for which clear evidence of stable bodies of surface liquid has been found. Titan is the sixth ellipsoidal moon from Saturn.",
         "wikilink": "http://en.wikipedia.org/wiki/Titan_(moon)"
     },
     {
@@ -133,7 +133,7 @@
         "category": "Moon Of Saturn",
         "name": "Aegaeon",
         "image": "img/moon3.jpg",
-        "description": "",
+        "description": "Aegaeon (/iːˈdʒiːən/ ee-jee-ən; or as Greek Αιγαίων), also Saturn LIII (provisional designation S/2008 S 1), is a natural satellite of Saturn. Its discovery was announced by Carolyn Porco of the Cassini Imaging Science Team on March 3, 2009, from observations taken on August 15, 2008. Aegaeon orbits within the bright segment of Saturn's G Ring, and is probably a major source of the ring.",
         "wikilink": "http://en.wikipedia.org/wiki/Aegaeon_(moon)"
     },
     {
@@ -141,7 +141,7 @@
         "category": "Moon Of Saturn",
         "name": "Atlas",
         "image": "img/moon4.jpg",
-        "description": "",
+        "description": "Atlas was discovered by Richard Terrile in 1980 (some time before November 12) from Voyager photos and was designated S/1980 S 28. In 1983 it was officially named after Atlas of Greek mythology, because it \"holds the rings on its shoulders\" like the Titan Atlas held the sky up above the Earth. It is also designated Saturn XV.",
         "wikilink": "http://en.wikipedia.org/wiki/Atlas_(moon)"
     },
     {
@@ -149,7 +149,7 @@
         "category": "Moon Of Saturn",
         "name": "Calypso",
         "image": "img/moon5.jpg",
-        "description": "",
+        "description": "Calypso (/kəˈlɪpsoʊ/ kə-lip-soh; Greek: Καλυψώ) is a moon of Saturn. It was discovered in 1980, from ground-based observations, by Dan Pascu, P. Kenneth Seidelmann, William A. Baum, and Douglas G. Currie, and was provisionally designated S/1980 S 25 (the 25th satellite of Saturn discovered in 1980). Several other apparitions of it were recorded in the following months: S/1980 S 29, S/1980 S 30, S/1980 S 32, and S/1981 S 2.",
         "wikilink": "http://en.wikipedia.org/wiki/Calypso_(moon)"
     },
     {
@@ -157,7 +157,7 @@
         "category": "Moon Of Saturn",
         "name": "Helene",
         "image": "img/moon6.jpg",
-        "description": "",
+        "description": "Helene (/ˈhɛlɨniː/ hel-ə-nee; Greek: Ἑλένη) is a moon of Saturn. It was discovered by Pierre Laques and Jean Lecacheux in 1980 from ground-based observations at Pic du Midi Observatory, and was designated S/1980 S 6. In 1988 it was officially named after Helen of Troy, who was the granddaughter of Cronus (Saturn) in Greek mythology.",
         "wikilink": "http://en.wikipedia.org/wiki/Helene_(moon)"
     },
     {
@@ -165,7 +165,7 @@
         "category": "Moon Of Saturn",
         "name": "Epimetheus",
         "image": "img/moon7.jpg",
-        "description": "",
+        "description": "Epimetheus is an inner satellite of Saturn. It is also known as Saturn XI. It is named after the mythological Epimetheus, brother of Prometheus. Epimetheus occupies essentially the same orbit as the moon Janus. Astronomers assumed that there was only one body in that orbit, and accordingly had difficulty determining their orbital characteristics.",
         "wikilink": "http://en.wikipedia.org/wiki/Epimetheus_(moon)"
     }
 

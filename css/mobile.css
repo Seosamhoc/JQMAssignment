@@ -44,5 +44,5 @@ h6
 .tutorial_image object, .tutorial_image embed { max-width: 250px; }
 
 #mypanel {background: rgba(255, 255, 255, 0.9);}
-.paneldiv {background: rgba(255, 255, 255, 1);
+.paneldiv, .paneldiv p {background: rgba(255, 255, 255, 0.4);
  word-wrap:break-word;}
